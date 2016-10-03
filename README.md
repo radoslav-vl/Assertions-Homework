@@ -1,2 +1,2 @@
 # Assertions-Homework
-For test purposes
+Solution for test purposes
